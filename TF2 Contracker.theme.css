@@ -1,0 +1,40 @@
+/**
+* @name TF2 Contracker
+* @version Auto Update
+* @description HeeHoo Piss
+* @author Spectra
+* @invite PZdnCVD
+* @Source https://github.com/codedotspectra/themes
+* @website https://betterdiscord.app/theme/Neutron
+*/
+@import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
+@import url('https://discordstyles.github.io/RadialStatus/base.css');
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro');
+:root {
+--themeColor1: #cd7c23;
+--themeColor2: #5e5a57;
+--customFont: 'Source Code Pro';
+--homeImage: url('https://i.imgur.com/Es9w3kC.png');
+--homeImageSize: cover;
+--backgroundColor: #0d0d0d;
+--backgroundImage: url('https://cdn.discordapp.com/attachments/763140742041829426/865362690704277536/unknown.png');
+--backgroundPosition: center;
+--backgroundSize: cover;
+--backgroundRepeat: no-repeat;
+--backgroundBlur: 100px;
+--backgroundOpacity: 0.65;
+--rs-small-spacing: 0px;
+--rs-medium-spacing: 0px;
+--rs-large-spacing: 4px;
+--rs-small-width: 2px;
+--rs-medium-width: 4px;
+--rs-large-width: 4px;
+--rs-avatar-shape: 50%;
+--rs-online-color: #c47723;
+--rs-idle-color: #8c5b22;
+--rs-dnd-color: #f04747;
+--rs-offline-color: #363535;
+--rs-streaming-color: #643da7;
+--rs-invisible-color: #363535;
+--rs-phone-visible: none;
+}
